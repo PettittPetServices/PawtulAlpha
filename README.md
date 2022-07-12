@@ -25,7 +25,7 @@ Bugs:
 
 - `If you create a pet without selecting a sex the program will crash`
 - `If you create a pet without selecting an insured status the program will crash`
-- `If you select ‘Edit Pet` without selecting the pet in the table, you will get a infinite loading bar`
+- `If you select "Edit Pet" without selecting the pet in the table, you will get a infinite loading bar`
 
 
 
